@@ -2,6 +2,13 @@
 Laboratorio 1
 *************
 
+Introducción
+==================
+* Desde el start-up eieLabs se requiere de la creación de un software centralizado que sea capaz de enviar comandos de control y status a los diferentes dispositivos interconectados.
+    * Después de una reunión general se determinó que este software debe ser dividido en dos grandes áreas: eieManager y eieDevice.
+    .. image:: img/diagramageneral.png
+   :align: center
+
 
 Planeamiento
 ==================
